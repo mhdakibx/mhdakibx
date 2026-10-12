@@ -59,7 +59,7 @@ Personal Portfolio
 
 A personal portfolio website showcasing my skills, projects, and development journey.
 
-Live Website: akib.com.bd
+Live Website: www.akib.com.bd
 
 Currently Learning
 
