@@ -59,7 +59,7 @@ Personal Portfolio
 
 A personal portfolio website showcasing my skills, projects, and development journey.
 
-Live Website: https://mdakib.vercel.app
+Live Website: akib.com.bd
 
 Currently Learning
 
